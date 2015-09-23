@@ -7,7 +7,7 @@ DESCRIPTION="Ingest-CM1"
 HOMEPAGE="https://github.com/cwebster2/ingest_cm1"
 #SRC_URI="https://github.com/cwebster2/${PN}/archive/v${PV}.tar.gz -> ${P}.tar.gz"
 EGIT_REPO_URI="https://github.com/cwebster2/ingest_cm1.git"
-EDIT_COMMIT="v${PV}"
+EGIT_COMMIT="v${PV}"
 
 LICENSE="BSD"
 SLOT="0"
